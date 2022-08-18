@@ -232,7 +232,7 @@ console.log('arribade8', arribade8);
 console.log('aprobados', aprobados);
 
 const getAge = async () => {
-  const response = await fetch (input:"https://api.agity.io?name=sadia");
+  const response = await fetch ("https://api.agity.io?name=sadia");
   console.log(response);
 
   const data = await response.json ();
