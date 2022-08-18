@@ -1,7 +1,7 @@
 console.log("Hola mundo");
 const myName = "Sadia";
 // myName="Sadia";
-let myAge = 22;
+let myAge = 17;
 let x = 3;
 let y = 4;
 const likesMusic = true;
